@@ -6,7 +6,7 @@
   - myfirstalgoritm.ipynb
   - calculadora.sh
 
-# IMPORTANTE PARA A ATIVIDADE Entrega: Projeto 1 (módulo 3)
+# IMPORTANTE PARA A ATIVIDADE CURSO EBAC ANALISTA DE DADOS "Entrega: Projeto 1 (módulo 3)"
  - baixe a calculadora.sh em sua máquina
  - cole em seu sistema linux no diretório de sua preferência
  - deixe-o executável com o comando chmod +x calculadora.sh
